@@ -1,0 +1,3 @@
+numeroAcres = float(input('Informe a quantidade de acres a ser convertida: '))
+numeroMetrosQuadrados = numeroAcres*4048.58
+print(f'{numeroAcres} acres são {numeroMetrosQuadrados} metros quadrados')
