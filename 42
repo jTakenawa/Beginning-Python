@@ -1,0 +1,5 @@
+SalarioBase = float(input("Informe o salario base: "))
+Gratificação = (SalarioBase*5/100) - SalarioBase
+Imposto =SalarioBase*7/100 - SalarioBase
+SalarioFinal = SalarioBase + Gratificação - Imposto
+print(f'Salario Final R${SalarioFinal}')
