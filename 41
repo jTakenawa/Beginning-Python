@@ -1,0 +1,5 @@
+HoraDeTrabalho = float(input('Informe o valor da hora: '))
+NumeroDeHoras = float(input('Informe as horas  trabalhadas: '))
+SalarioDT = HoraDeTrabalho * NumeroDeHoras
+SalarioDesc = (SalarioDT * 10/100) + SalarioDT
+print(f'{SalarioDesc}')
