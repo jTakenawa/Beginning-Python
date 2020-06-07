@@ -1,0 +1,4 @@
+numero = int(input('Informe um numero: '))
+numero1 = numero + 1
+numero2 = numero - 1
+print(f'{numero2} {numero} {numero1}')
