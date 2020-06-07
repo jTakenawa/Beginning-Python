@@ -1,0 +1,3 @@
+numeroLado = float(input('Informe o comprimento do lado do quadrado: '))
+numeroArea = numeroLado*numeroLado
+print(f'A aréa é {numeroArea}')
