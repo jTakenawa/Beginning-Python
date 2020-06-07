@@ -1,0 +1,3 @@
+numeroHectares = int(input('Informe a quantidade de hectares a ser convertida: '))
+numeroMetrosQuadrados = numeroHectares * 10000
+print(f'{numeroHectares} hectares são {numeroMetrosQuadrados} metros quadrados')
