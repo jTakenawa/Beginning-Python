@@ -1,0 +1,3 @@
+numeroML = float(input('Informe a quantiade de massa em libras a ser convertida: '))
+numeroQG = numeroML *0.45
+print(f"{numeroML} libras são {numeroQG} quilo gramas")
