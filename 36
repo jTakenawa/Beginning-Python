@@ -1,0 +1,4 @@
+numeroAltura = float(input('Informe a altura: '))
+numeroRaio = float(input('Informe o raio: '))
+numeroVolume = 3.14*numeroRaio**2*numeroAltura
+print(f'O volume é {numeroVolume}')
