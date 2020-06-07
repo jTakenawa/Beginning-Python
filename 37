@@ -1,0 +1,4 @@
+ValorProduto = float(input('Informe o valor do produto: '))
+ValorDesconto = ValorProduto*12/100
+ValorTotal = ValorProduto - ValorDesconto
+print(f' Valor total R${ValorTotal}, com o desconto de R${ValorDesconto}')
