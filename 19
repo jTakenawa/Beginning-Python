@@ -1,0 +1,3 @@
+numeroLitros = float(input('Informe a quantidade de litros a ser convertida:'))
+numeroMC = numeroLitros/1000
+print(f'{numeroLitros} litros são {numeroMC} metros cubicos')
