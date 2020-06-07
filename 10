@@ -1,0 +1,3 @@
+numeroKH= float(input('Informe a quantidade de km/hr a ser convertida e m/s: '))
+numeroMS = numeroKH/3.6
+print(f"A quatidade {numeroKH} são {numeroMS} em metros por segundo")
