@@ -1,0 +1,4 @@
+numeroA = float(input('Informe o A: '))
+numeroB = float(input('Informe o B: '))
+numeroHipotenusa = (numeroA**2 + numeroB**2)#2
+print(f'Hipotenusa {numeroHipotenusa}')
