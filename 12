@@ -1,0 +1,3 @@
+numeroMl =float(input('Informe a quantidade de milhas a ser convertida: '))
+numeroKH = numeroMl*1.61
+print(f"{numeroMl} milhas são {numeroKH} quilometros")
