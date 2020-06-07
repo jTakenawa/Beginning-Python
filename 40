@@ -1,0 +1,4 @@
+DiasTrabalhadas = float(input('Informe o numero de dias trabalhados: '))
+SalarioDiasTrabalho = (DiasTrabalhadas * 30)
+SalarioDes = (SalarioDiasTrabalho*8/100) - SalarioDiasTrabalho
+print(f"Dias trabalhados {DiasTrabalhadas} Salario Descontado R$ {SalarioDes}")
