@@ -1,0 +1,4 @@
+PrimeiroLugar = 780000000 * 46/100 - 780000000
+SegundoLugar = 780000000 * 32/100 - 780000000
+TerceiroLugar = 780000000  * 22/100 - 780000000
+print(f'1 {PrimeiroLugar} 2 {SegundoLugar} 3 {TerceiroLugar}')
