@@ -1,0 +1,3 @@
+numeroR = float(input('Informe a quantidade de radianos a ser convertida: '))
+numeroG = numeroR * 180/3.14
+print(f'{numeroR} radianus são {numeroG} em graus ')
