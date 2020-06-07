@@ -1,0 +1,3 @@
+numeroMetrosQuadrados = float(input('Informe a quantidade de metros quadrados a ser convertida: '))
+numeroHectares = numeroMetrosQuadrados*0.0001
+print(f'{numeroMetrosQuadrados} metros quadrados são {numeroHectares} hectares')
