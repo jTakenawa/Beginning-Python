@@ -3,4 +3,4 @@ Desconto = (ValorTotal*10/100) - ValorTotal
 Parcelamento = ValorTotal/3
 ComissãoVista = Desconto*5/100
 ComissãoPrazo = ValorTotal*5/100
-print(f'Valor total {ValorTotal} Parcelamento {Parcelamento} Comissão a Vista {ComissãoVista} Comissão a prazo {ComissãoPrazo}')
+print(f'Valor total  R${ValorTotal} Parcelamento em 3x R${Parcelamento} Comissão a Vista R${ComissãoVista} Comissão a prazo R${ComissãoPrazo}')
