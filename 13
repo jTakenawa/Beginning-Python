@@ -1,0 +1,3 @@
+numeroG = float(input('Informe a quantidade de graus a ser convertido: '))
+numeroR = numeroG *3.14/180
+print(f"{numeroG} quilometros são {numeroR} em radianus")
