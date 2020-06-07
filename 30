@@ -1,0 +1,3 @@
+numeroReal = float(input('Informe a quantidade de reais que deseja converter: '))
+numeroDolar = numeroReal*4.97
+print(f'{numeroReal} dolares são {numeroDolar} reais')
