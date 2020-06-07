@@ -1,0 +1,6 @@
+nota = float(input('Informe a primeira nota: '))
+nota1 = float(input('Informe a segunda nota: '))
+nota2 = float(input('Informe a terceira nota: '))
+nota3 = float(input('Informe a quarta nota: '))
+soma = nota+nota1+nota2+nota3/4
+print(f'A media é:{soma}')
