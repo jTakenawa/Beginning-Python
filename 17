@@ -1,0 +1,3 @@
+numeroC = float(input("Informe a quantidade de centimetros a ser convertida:"))
+numeroP= numeroC/2.54
+print(f"{numeroC} centimetros são {numeroP} polegadas")
