@@ -1,0 +1,5 @@
+numero = int(input('Informe um numero: '))
+numeroSucessor = (numero *3)+1
+numeroAnte = (numero*2) - 1
+soma = numeroSucessor + numeroAnte
+print(f'{numeroAnte} Antecesssor de seu dobro {numeroSucessor} Sucessor do seu triplo {numeroSucessor} Soma {soma}')
