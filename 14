@@ -1,0 +1,3 @@
+numeroP = float(input('Informe a quantidade de polegadas: '))
+numeroC = numeroP*2.54
+print(f"{numeroP} polegadas são {numeroC} centimetros")
