@@ -1,0 +1,3 @@
+temperaturaC = float(input('Informe a temperatura em Celcius que deseja converter para Kelvin: '))
+temperaturaK = temperaturaC + 273.15
+print(f'{temperaturaC} celsiu são {temperaturaK} kelvin')
