@@ -1,0 +1,3 @@
+temperaturaF = float(input('Informe a temperatura em Fahrenheit que deseja converter para Celsius: '))
+temperaturaC = 5*(temperaturaF - 32)/9
+print(f'{temperaturaF} são {temperaturaC} em Celsius')
