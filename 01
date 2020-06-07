@@ -1,0 +1,2 @@
+numero = 45
+print(numero)
