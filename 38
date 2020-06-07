@@ -1,0 +1,3 @@
+ValorSalario = float(input('Informe o salario do funcionario: '))
+ValorTotal = (ValorSalario*25/100) + ValorSalario
+print(f"O novo salario é {ValorTotal}")
