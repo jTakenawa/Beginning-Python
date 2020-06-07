@@ -1,0 +1,8 @@
+numero0 = int(input('Informe o primeiro numero: '))
+numero1 = int(input('Informe o segundo numero: '))
+numero2 = int(input('Informe o terceiro numero: '))
+numero0 = numero0**2
+numero1 = numero1**2
+numero2 = numero2**2
+soma = numero0+numero1+numero2
+print(f'As soma dos quadrados são {soma}')
