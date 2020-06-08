@@ -1,0 +1,4 @@
+AlturaDegrau = float(input('Informe a altura do degrau: '))
+AlturaEscada = float(input('Informe a altura da escada: '))
+QuantidadeDeDegraus = AlturaEscada / AlturaDegrau
+print(f"A quantidade de degrau são {QuantidadeDeDegraus}")
