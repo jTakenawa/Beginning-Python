@@ -1,0 +1,4 @@
+LetraMaiuscula = input('Informe a letra maiuscula a ser convertida:')
+UPPER = LetraMaiuscula.isupper()
+LetraMinuscula = LetraMaiuscula.lower()
+print(f'A letra {UPPER} minuscula fica {LetraMinuscula}')
